@@ -7,3 +7,7 @@ https://drive.google.com/drive/u/0/folders/1ejnzhAzeAhEwrr7Pk6uj067mMkkPWWK0
 
 ## Jalankan npm install untuk memasang seluruh dependencies yang digunakan pada aplikasi
 yarn start : Menjalankan Aplikasi 
+
+## Tools
+- React.Js
+- Firebase
