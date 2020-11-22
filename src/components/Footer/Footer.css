@@ -1,0 +1,28 @@
+footer {
+    display: flex;
+    padding: 2em 8% 5em;
+    background: #f9f9f9;
+}
+
+
+footer div {
+    width: 20%;
+}
+
+footer h6 {
+    margin: 1em 0;
+    margin-left: 45px;
+}
+
+footer a {
+    display: block;
+    margin: 1em 0;
+    font-family: Pacifico;
+    color: #ababab;
+    transition: .2s;
+}
+
+footer a:hover {
+    color: #000;
+}
+

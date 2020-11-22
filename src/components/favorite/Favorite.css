@@ -1,0 +1,30 @@
+.favorite {
+	width: 350px;
+	height: 430px;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	
+}
+.card-title.custom{
+	color: black;
+	margin-top: -10px;
+}
+
+.card-img-top.custom-image {
+	height:  175px;
+}
+.card-text {
+	font-size: 15px;
+	
+}
+
+@media (max-width: 690px) { 
+
+.card.favorite {
+	width: 100%;
+	margin-left: 4px;
+
+	
+ }
+ 
+}

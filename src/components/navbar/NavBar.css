@@ -1,0 +1,37 @@
+ .navbar{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
+	
+}
+
+a {
+	font-family: Pacifico;
+	font-size: 18px;
+	scroll-behavior: smooth;
+}
+
+.navbar-brand{
+	font-size: 33px;
+}
+
+.nav-link {
+	margin-left: 30px;
+}
+.navbar-nav, .btn{
+
+font-family: arial;
+padding: 8px;
+margin: 2px;
+margin-left: 30px;
+}
+
+@media (max-width: 576px) {
+.nav-link {
+    margin-left: 0px;
+}	
+.navbar{
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 4px 8px 0 rgba(0,0,0,0.19);
+	background-color: #0000;
+}
+
+
+  }

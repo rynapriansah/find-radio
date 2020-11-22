@@ -1,0 +1,38 @@
+.container-fitur {
+    max-width: 960px;
+    margin: 50px auto; 
+        
+}
+
+.card.fitur {
+    width: 95%;           
+    border-radius: 40px;
+    border-color: darkcyan;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 10px; 
+    box-sizing: border-box;  
+}
+
+.card.fitur:hover {
+box-shadow: 10px 10px; 
+}
+
+.card-title {
+    margin: 20px;
+    color: #00CED1;
+}
+.check{
+    width:24px;
+}
+/*responsive*/
+
+@media (min-width: 600px) {
+ .container-fitur {
+    display: flex;
+    justify-content: center;
+           
+ } 
+.card.big {
+    transform: scale(1.12);
+}  
+}
